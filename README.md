@@ -1,1 +1,2 @@
-The background color is `#32a852` for light mode and `#000000` for dark mode.
+# HI!
+I'am a small human who like a small project in mc
